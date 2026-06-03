@@ -1,0 +1,5 @@
+avoid-breaking-exported-api = false
+disallowed-names = ["foo", "bar", "baz", "quux"]
+too-many-arguments-threshold = 8
+type-complexity-threshold = 500
+cognitive-complexity-threshold = 30
