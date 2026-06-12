@@ -31,7 +31,7 @@ impl<O: DietOptimizer> DietOptimizationService<O> {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use crate::domain::{MacroTargets, NutritionalProfile, Recipe};
+    use crate::domain::MacroTargets;
     use crate::infrastructure::repository::InMemoryRecipeRepository;
     use crate::optimization::BranchAndBoundOptimizer;
 

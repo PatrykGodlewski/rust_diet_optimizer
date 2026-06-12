@@ -1,0 +1,12 @@
+{
+  "target_calories": 2200.0,
+  "macro_targets": {
+    "type": "grams",
+    "carbs_g": 200.0,
+    "protein_g": 180.0,
+    "fat_g": 70.0
+  },
+  "dietary_exclusions": [],
+  "min_meals": 3,
+  "max_meals": 3
+}

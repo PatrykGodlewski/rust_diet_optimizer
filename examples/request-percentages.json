@@ -1,0 +1,14 @@
+{
+  "target_calories": 2000.0,
+  "macro_targets": {
+    "type": "percentages",
+    "carbs_pct": 50.0,
+    "protein_pct": 25.0,
+    "fat_pct": 25.0
+  },
+  "dietary_exclusions": [
+    "dairy"
+  ],
+  "min_meals": 3,
+  "max_meals": 4
+}
